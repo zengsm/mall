@@ -1,0 +1,12 @@
+com\luban\mall\search\service\impl\EsProductServiceImpl.class
+com\luban\mall\search\dao\EsProductDao.class
+com\luban\mall\search\config\MyBatisConfig.class
+com\luban\mall\search\domain\EsProductRelatedInfo$ProductAttr.class
+com\luban\mall\search\service\EsProductService.class
+com\luban\mall\search\config\Swagger2Config.class
+com\luban\mall\search\domain\EsProductAttributeValue.class
+com\luban\mall\search\domain\EsProductRelatedInfo.class
+com\luban\mall\search\repository\EsProductRepository.class
+com\luban\mall\search\SearchApplication.class
+com\luban\mall\search\domain\EsProduct.class
+com\luban\mall\search\controller\EsProductController.class

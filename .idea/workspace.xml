@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45e6048c-27bc-48b0-9d3a-bc3b26c1bcbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.19.129" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.19.129" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="luban-mall" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/developmentTool/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\developmentTool\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cREITfehIHC9Wq89L9ZH18WgnK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="consents" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\luban-mall\order-pay\src\main\java\com\alipay\demo\trade" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.order.config" />
+      <recent name="com.order.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\luban-mall\order-pay\src\main\java\com\order\do" />
+      <recent name="C:\luban-mall\order-pay\src\main\resources" />
+      <recent name="C:\luban-mall\F2FPay_Demo_Java\TradePaySDK\src\com\alipay\demo\trade" />
+      <recent name="C:\luban-mall\order-pay\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CoreApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luban.mall.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luban.mall.CoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallOrderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luban.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luban.mall.MallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luban.mall.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.MallOrderApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e6048c-27bc-48b0-9d3a-bc3b26c1bcbc" name="Default Changelist" comment="" />
+      <created>1590482925517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590482925517</updated>
+      <workItem from="1590482928039" duration="1845000" />
+      <workItem from="1590485699698" duration="1318000" />
+      <workItem from="1590492815400" duration="25526000" />
+      <workItem from="1591164733713" duration="480000" />
+      <workItem from="1591165537837" duration="879000" />
+      <workItem from="1591711809201" duration="2660000" />
+      <workItem from="1591853440634" duration="22477000" />
+      <workItem from="1591941509916" duration="16322000" />
+      <workItem from="1592201255770" duration="3109000" />
+      <workItem from="1592284788505" duration="5054000" />
+      <workItem from="1592741091624" duration="14727000" />
+      <workItem from="1593323187096" duration="2268000" />
+      <workItem from="1593429043103" duration="3060000" />
+      <workItem from="1593790219945" duration="2262000" />
+      <workItem from="1593829558663" duration="4741000" />
+      <workItem from="1593914462494" duration="6850000" />
+      <workItem from="1594049107829" duration="2538000" />
+      <workItem from="1594126590648" duration="5345000" />
+      <workItem from="1594208149760" duration="4158000" />
+      <workItem from="1594216284218" duration="4886000" />
+      <workItem from="1594294804185" duration="2506000" />
+      <workItem from="1594379667611" duration="5714000" />
+      <workItem from="1594519429875" duration="1559000" />
+      <workItem from="1594524868372" duration="8086000" />
+      <workItem from="1594738049045" duration="2529000" />
+      <workItem from="1594814119530" duration="4191000" />
+      <workItem from="1594997087534" duration="3063000" />
+      <workItem from="1595158199816" duration="4531000" />
+      <workItem from="1595660950566" duration="3404000" />
+      <workItem from="1595775866080" duration="596000" />
+      <workItem from="1597242692505" duration="648000" />
+      <workItem from="1597405352933" duration="7275000" />
+      <workItem from="1597463634298" duration="789000" />
+      <workItem from="1597468513874" duration="839000" />
+      <workItem from="1597469690548" duration="500000" />
+      <workItem from="1597487284009" duration="2631000" />
+      <workItem from="1601108775161" duration="1029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="80" width="1177" height="697" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594386814986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594386814986" />
+    <state x="281" y="70" width="440" height="489" key="FileChooserDialogImpl" timestamp="1597469701371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="39" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593323324329" />
+    <state x="281" y="70" width="440" height="489" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597469701371" />
+    <state width="1848" height="264" key="GridCell.Tab.0.bottom" timestamp="1601109141211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601109141211" />
+    <state width="1848" height="264" key="GridCell.Tab.0.center" timestamp="1601109141210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601109141210" />
+    <state width="1848" height="264" key="GridCell.Tab.0.left" timestamp="1601109141210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601109141210" />
+    <state width="1848" height="264" key="GridCell.Tab.0.right" timestamp="1601109141211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601109141211" />
+    <state width="1848" height="264" key="GridCell.Tab.1.bottom" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state width="1848" height="264" key="GridCell.Tab.1.center" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state width="1848" height="264" key="GridCell.Tab.1.left" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state width="1848" height="264" key="GridCell.Tab.1.right" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state width="1848" height="264" key="GridCell.Tab.2.bottom" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state width="1848" height="264" key="GridCell.Tab.2.center" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state width="1848" height="264" key="GridCell.Tab.2.left" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state width="1848" height="264" key="GridCell.Tab.2.right" timestamp="1601109132115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1848" height="264" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601109132115" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1593933790199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593933790199" />
+    <state x="178" y="0" key="SettingsEditor" timestamp="1593920958681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="178" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593920958681" />
+    <state x="489" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1597469692252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593323187066" />
+    <state x="489" y="247" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597469692252" />
+    <state x="483" y="78" width="1218" height="962" key="find.popup" timestamp="1601111757824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="78" width="1218" height="962" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601111757824" />
+    <state x="426" y="0" width="1050" height="1038" key="search.everywhere.popup" timestamp="1597487343568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="426" y="0" width="1050" height="1038" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597487343568" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-core/src/main/java/com/luban/mall/service/impl/OmsPortalOrderServiceImpl.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-core/src/main/java/com/luban/mall/service/impl/OmsCartItemServiceImpl.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-core/src/main/java/com/luban/mall/service/impl/OmsPromotionServiceImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-core/src/main/java/com/luban/mall/service/impl/OmsPortalOrderServiceImpl.java</url>
+          <line>661</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-core/src/main/java/com/luban/mall/service/impl/OmsPortalOrderServiceImpl.java</url>
+          <line>662</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-core/src/main/java/com/luban/mall/service/impl/OmsPortalOrderServiceImpl.java</url>
+          <line>663</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-order/src/main/java/com/luban/mall/controller/MallOrderController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-order/src/main/java/com/luban/mall/service/impl/TradeServiceImpl.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
