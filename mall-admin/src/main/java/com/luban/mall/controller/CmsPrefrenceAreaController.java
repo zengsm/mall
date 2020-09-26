@@ -33,4 +33,12 @@ public class CmsPrefrenceAreaController {
         List<CmsPrefrenceArea> prefrenceAreaList = prefrenceAreaService.listAll();
         return CommonResult.success(prefrenceAreaList);
     }
+
+    @ApiOperation("test")
+    @RequestMapping(value = "/test", method = RequestMethod.GET)
+    @ResponseBody
+    public CommonResult<List<CmsPrefrenceArea>> test() {
+        List<CmsPrefrenceArea> prefrenceAreaList = prefrenceAreaService.listAll();
+        return CommonResult.success(prefrenceAreaList);
+    }
 }
